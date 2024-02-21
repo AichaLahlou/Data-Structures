@@ -37,7 +37,8 @@ In this representation:
 
 ## Function/Method Descriptions:
 
-Check the implementation in [src/queue.md](src/queue.md) for the details of the `Queue` class.
+Check the implementation in [src/Queue.py](../src/Queue.py) for the details of the Queue class.
+
 
 1. **`__init__` (Initialization):**
    - **Role:** Initializes a new instance of the `Queue` class with an empty list.
