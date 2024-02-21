@@ -25,8 +25,8 @@ Stacks are useful in various scenarios, including:
 A stack can be visualized as a collection of elements with a single point of access, known as the top.
 
 
-Top
------------------
+**Top**
+
 - Element N
 - ...           
 - Element 3     
