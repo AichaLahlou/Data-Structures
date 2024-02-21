@@ -27,9 +27,13 @@ A stack can be visualized as a collection of elements with a single point of acc
 Top
 -----------------
 | Element 1     |
+
 | Element 2     |
+
 | Element 3     |
+
 | ...           |
+
 | Element N     |
 -----------------
 
