@@ -24,7 +24,7 @@ Queues are useful in scenarios where tasks or entities need to be processed in a
 
 A queue can be visualized as a line with two ends: the front and the rear.
 
-Front                                              Rear
+Front  ----------------------------------------    Rear
 ---------------------------------------------------
 | Element 1 | Element 2 | Element 3 | ... | Element N |
 ---------------------------------------------------
