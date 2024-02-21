@@ -24,18 +24,16 @@ Stacks are useful in various scenarios, including:
 
 A stack can be visualized as a collection of elements with a single point of access, known as the top.
 
+
 Top
 -----------------
 | Element 1     |
-
 | Element 2     |
-
 | Element 3     |
-
 | ...           |
-
 | Element N     |
 -----------------
+
 
 In this representation:
 
