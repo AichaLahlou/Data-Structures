@@ -24,7 +24,7 @@ Queues are useful in scenarios where tasks or entities need to be processed in a
 
 A queue can be visualized as a line with two ends: the front and the rear.
 
-Front                                              Rear
+Front  ----------------------------------------    Rear
 ---------------------------------------------------
 | Element 1 | Element 2 | Element 3 | ... | Element N |
 ---------------------------------------------------
@@ -35,12 +35,9 @@ In this representation:
 - `Rear` indicates the rear of the queue where elements are added.
 - Elements are added at the rear and removed from the front, following the First-In, First-Out (FIFO) principle.
 
-## Queue Implementation in [src/queue.py](./src/queue.py):
-
-Check the implementation in `src/queue.py` for the details of the `Queue` class.
-
 ## Function/Method Descriptions:
 
+Check the implementation in [src/queue.md](src/queue.md) for the details of the `Queue` class.
 
 1. **`__init__` (Initialization):**
    - **Role:** Initializes a new instance of the `Queue` class with an empty list.
